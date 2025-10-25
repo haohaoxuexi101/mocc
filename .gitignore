@@ -11,3 +11,5 @@ bin/*
 mocc.sublime-workspace
 *.mine
 *.log
+
+standalone/build/
